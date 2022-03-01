@@ -3,7 +3,7 @@ game I wrote in Javascript and html5  you can play it at www.davefife.com/profil
 
 it's now late 2018 and this was made probably around 2013 or 14 I forget.
   The code is not as organized as it needs to be, I can work with it,
-but I wrote it in a sloppy way; a lot of things can be improved.  Despite that, I think it was a success, as my goals for myself were met.
+but I wrote it in a sloppy way. A lot of things can be improved.  Despite that, I think it was a success, as my goals for myself were met.
 
   So the game itself has controls that are touch-screen overlaid on the edges of the screen.
 if you look closely you will see white text. The idea was to have the text be 
