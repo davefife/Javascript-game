@@ -1,5 +1,5 @@
 # Javascript-game
-game I wrote in Javascript and html5  you can play it at www.davefife.com/profile.html
+Game I wrote in Javascript and html5.  You can play it at www.davefife.com/profile.html
 
 it's now late 2018 and this was made probably around 2013 or 14 I forget.
   The code is not as organized as it needs to be, I can work with it,
