@@ -1,5 +1,5 @@
 # Javascript-game
-game I wrote in Javascript and html5
+game I wrote in Javascript and html5  you can play it at www.davefife.com/profile
 
 it's now late 2018 and this was made probably around 2013 or 14 I forget.
   The code is not as organized as it needs to be, I can work with it,
@@ -12,12 +12,7 @@ inspired thing.  I took sprites from the old NES Dragon Warrior, if I ever decid
 replacing the sprites is a mid-level priority.  There isn't an ending or final boss fight,
 this is a common criticism.  I was not concerned with that, but maybe sometime I will go back.
 
-It served three purposes:
-1. Learning
-2. Demonstration
 
-
-goals were moving forward - be aware of code quality. 
 
 
 
